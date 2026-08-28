@@ -1,0 +1,19 @@
+[
+  { "categoryId": 1, "parentid": null, "name": "electronics", "displayname": "Электроника", "treepath": [] },
+  { "categoryId": 11, "parentid": 1, "name": "phones", "displayname": "Телефоны", "treepath": [1] },
+  { "categoryId": 111, "parentid": 11, "name": "smartphones", "displayname": "Смартфоны", "treepath": [1, 11] },
+  { "categoryId": 112, "parentid": 11, "name": "phone-accessories", "displayname": "Аксессуары", "treepath": [1, 11] },
+  { "categoryId": 1121, "parentid": 112, "name": "cases", "displayname": "Чехлы", "treepath": [1, 11, 112] },
+  { "categoryId": 1122, "parentid": 112, "name": "chargers", "displayname": "Зарядные устройства", "treepath": [1, 11, 112] },
+  { "categoryId": 12, "parentid": 1, "name": "computers", "displayname": "Компьютеры", "treepath": [1] },
+  { "categoryId": 121, "parentid": 12, "name": "laptops", "displayname": "Ноутбуки", "treepath": [1, 12] },
+  { "categoryId": 122, "parentid": 12, "name": "monitors", "displayname": "Мониторы", "treepath": [1, 12] },
+  { "categoryId": 2, "parentid": null, "name": "home-appliances", "displayname": "Бытовая техника", "treepath": [] },
+  { "categoryId": 21, "parentid": 2, "name": "kitchen", "displayname": "Техника для кухни", "treepath": [2] },
+  { "categoryId": 211, "parentid": 21, "name": "coffee-machines", "displayname": "Кофемашины", "treepath": [2, 21] },
+  { "categoryId": 212, "parentid": 21, "name": "blenders", "displayname": "Блендеры", "treepath": [2, 21] },
+  { "categoryId": 3, "parentid": null, "name": "beauty", "displayname": "Красота", "treepath": [] },
+  { "categoryId": 31, "parentid": 3, "name": "skin-care", "displayname": "Уход за кожей", "treepath": [3] },
+  { "categoryId": 311, "parentid": 31, "name": "face-care", "displayname": "Уход за лицом", "treepath": [3, 31] },
+  { "categoryId": 312, "parentid": 31, "name": "body-care", "displayname": "Уход за телом", "treepath": [3, 31] }
+]

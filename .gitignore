@@ -1,0 +1,6 @@
+.agents/
+prototype/
+skills-lock.json
+app/screenshots/
+node_modules/
+*.log
